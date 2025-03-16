@@ -24,9 +24,15 @@ body{
   bg-zinc-50/10 rounded-2xl ring-inset ring-1 ring-zinc-50/5
   scale-90 isolate blur-sm opacity-0 invisible 
   /* transition-[opacity, transform, filter] z-50 */
-   transition-opacity transition-transform will-change-[filter] z-50;
+   transition-opacity transition-transform will-change-[filter] z-50
 }
 
 .navbar.active {
   @apply opacity-100 scale-100 blur-0 visible
+}
+
+.nav-link {
+  @apply grid items-center h-9 px-4 text-sm font-medium
+  tracking-wide text-zinc-50/50 hover:bg-zinc-50
+  transition-colors
 }
