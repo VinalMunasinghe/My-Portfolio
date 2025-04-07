@@ -14,7 +14,7 @@ const About = () => {
             <div className="rounded-lg bg-gray-100 p-2 shadow-lg">
               <div className="bg-gray-300 h-64 w-full md:h-80 rounded overflow-hidden">
                 <img
-                  src="public/assets/images/Profilepic.jpg"
+                  src="/assets/images/Profilepic.jpg"
                   alt="Your Profile"
                   className="w-full h-full object-cover"
                 />
