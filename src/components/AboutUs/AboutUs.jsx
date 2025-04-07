@@ -59,7 +59,7 @@ const About = () => {
               </div>
             </div>
 
-            <a href="public/assets/cv/VinalMunasinghe.pdf" download>
+            <a href="/assets/cv/VinalMunasinghe.pdf" download>
               <button className="bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-6 rounded-full transition duration-300 shadow-md hover:shadow-lg flex items-center">
                 <span>Download Resume</span>
                 <svg

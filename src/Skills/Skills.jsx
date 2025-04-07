@@ -2,21 +2,21 @@ import React from "react";
 
 const Skills = () => {
   const skillsData = [
-    { name: "Java", icon: "public/assets/icons/Java.svg" },
-    { name: "Spring Boot", icon: "public/assets/icons/Spring.svg" },
-    { name: "JavaScript", icon: "public/assets/icons/JavaScript.svg" },
-    { name: "TypeScript", icon: "public/assets/icons/TypeScript.svg" },
-    { name: "React", icon: "public/assets/icons/React.svg" },
-    { name: "Angular", icon: "public/assets/icons/Angular.svg" },
-    { name: "Redux", icon: "public/assets/icons/redux.svg" },
-    { name: "HTML", icon: "public/assets/icons/html5.svg" },
-    { name: "CSS", icon: "public/assets/icons/css.svg" },
-    { name: "SASS", icon: "public/assets/icons/sass.svg" },
-    { name: "Tailwind CSS ", icon: "public/assets/icons/Tailwind.svg" },
-    { name: "Oracle ", icon: "public/assets/icons/Oracle.svg" },
-    { name: "MySQL ", icon: "public/assets/icons/MySql.svg" },
-    { name: "MongoDB ", icon: "public/assets/icons/MongoDB.svg" },
-    { name: "Git ", icon: "public/assets/icons/Git.svg" },
+    { name: "Java", icon: "/assets/icons/Java.svg" },
+    { name: "Spring Boot", icon: "/assets/icons/Spring.svg" },
+    { name: "JavaScript", icon: "/assets/icons/JavaScript.svg" },
+    { name: "TypeScript", icon: "/assets/icons/TypeScript.svg" },
+    { name: "React", icon: "/assets/icons/React.svg" },
+    { name: "Angular", icon: "/assets/icons/Angular.svg" },
+    { name: "Redux", icon: "/assets/icons/redux.svg" },
+    { name: "HTML", icon: "/assets/icons/html5.svg" },
+    { name: "CSS", icon: "/assets/icons/css.svg" },
+    { name: "SASS", icon: "/assets/icons/sass.svg" },
+    { name: "Tailwind CSS ", icon: "/assets/icons/Tailwind.svg" },
+    { name: "Oracle ", icon: "/assets/icons/Oracle.svg" },
+    { name: "MySQL ", icon: "/assets/icons/MySql.svg" },
+    { name: "MongoDB ", icon: "/assets/icons/MongoDB.svg" },
+    { name: "Git ", icon: "/assets/icons/Git.svg" },
   ];
 
   return (

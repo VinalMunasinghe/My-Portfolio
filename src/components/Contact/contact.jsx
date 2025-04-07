@@ -156,7 +156,7 @@ const Contact = () => {
               >
                 <img
                   className="w-5 h-5"
-                  src="public/assets/icons/twitter.png"
+                  src="/assets/icons/twitter.png"
                   alt="Icon 1"
                 />
               </a>
@@ -166,7 +166,7 @@ const Contact = () => {
               >
                 <img
                   className="w-5 h-5"
-                  src="public/assets/icons/GitHub.svg"
+                  src="/assets/icons/GitHub.svg"
                   alt="Icon 2"
                 />
               </a>
