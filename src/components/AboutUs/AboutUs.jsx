@@ -14,7 +14,7 @@ const About = () => {
             <div className="rounded-lg bg-gray-100 p-2 shadow-lg">
               <div className="bg-gray-300 h-64 w-full md:h-80 rounded overflow-hidden">
                 <img
-                  src="src/assets/images/Profilepic.jpg"
+                  src="public/assets/images/Profilepic.jpg"
                   alt="Your Profile"
                   className="w-full h-full object-cover"
                 />
@@ -59,7 +59,7 @@ const About = () => {
               </div>
             </div>
 
-            <a href="src/assets/cv/VinalMunasinghe.pdf" download>
+            <a href="public/assets/cv/VinalMunasinghe.pdf" download>
               <button className="bg-blue-600 hover:bg-blue-700 text-white font-medium py-2 px-6 rounded-full transition duration-300 shadow-md hover:shadow-lg flex items-center">
                 <span>Download Resume</span>
                 <svg

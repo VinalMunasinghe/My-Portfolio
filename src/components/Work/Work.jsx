@@ -9,7 +9,7 @@ const Work = () => {
       id: 1,
       title: "Food Review Web Application",
       category: "web",
-      image: "src/assets/images/FRW.png",
+      image: "public/assets/images/FRW.png",
       link: "https://github.com/VinalMunasinghe/Food-Review-Web-Application",
       description:
         "A user-friendly web application that allows users to rate dishes, leave detailed reviews for restaurants, and engage with others through likes and comments. Designed to enhance the dining experience through community-driven feedback.",
@@ -18,7 +18,7 @@ const Work = () => {
       id: 2,
       title: "Fitty App",
       category: "app",
-      image: "src/assets/images/Fitty.png",
+      image: "public/assets/images/Fitty.png",
       link: "https://github.com/VinalMunasinghe/FittyApp",
       description:
         "A fitness tracking app that helps users monitor daily movements, log workouts, set fitness goals, and track progress over time. With an intuitive interface and real-time insights, Fitty empowers users to stay motivated and lead a healthier lifestyle.",
@@ -27,7 +27,7 @@ const Work = () => {
       id: 3,
       title: "Eco Vision Web Application",
       category: "web",
-      image: "src/assets/images/EcoVision.png",
+      image: "public/assets/images/EcoVision.png",
       link: "https://github.com/VinalMunasinghe/Eco-vision-web",
       description:
         "A real-time web application developed for our research on IoT-based solutions to monitor and mitigate industrial air pollution. EcoVision visualizes live sensor data, tracks emission levels, and provides insights to support environmental sustainability.",
@@ -36,7 +36,7 @@ const Work = () => {
       id: 4,
       title: "Hotel Management System",
       category: "web",
-      image: "src/assets/images/HMS.png",
+      image: "public/assets/images/HMS.png",
       link: "https://github.com/Laksara-007/ITP24_B4_W07",
       description:
         "A web-based system developed for Heritage Resort to automate their manual operations, streamlining booking, billing, and room management for improved efficiency.",
@@ -45,7 +45,7 @@ const Work = () => {
       id: 5,
       title: "Vehicle Renting System UI",
       category: "design",
-      image: "src/assets/images/VRS.png",
+      image: "public/assets/images/VRS.png",
       description:
         "A clean and modern website UI design for a vehicle renting system, focused on enhancing user experience with intuitive navigation and responsive layouts for easy booking and vehicle management.",
     },
