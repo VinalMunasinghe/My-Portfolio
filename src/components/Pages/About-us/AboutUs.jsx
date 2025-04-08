@@ -10,9 +10,9 @@ const About = () => {
         </div>
 
         <div className="flex flex-col md:flex-row items-center justify-between gap-12">
-          <div className="md:w-1/3">
+          <div className="w-full sm:w-4/5 md:w-1/3 mx-auto">
             <div className="rounded-lg bg-gray-100 p-2 shadow-lg">
-              <div className="bg-gray-300 h-64 w-full md:h-80 rounded overflow-hidden">
+              <div className="bg-gray-300 h-[380px] w-full md:h-80 rounded overflow-hidden">
                 <img
                   src="/assets/images/Profilepic.jpg"
                   alt="Your Profile"
@@ -25,14 +25,14 @@ const About = () => {
           <div className="md:w-2/3">
             <h3 className="text-2xl font-bold text-gray-800 mb-4">Who I Am</h3>
             <p className="text-gray-600 mb-4">
-              I am a dedicated and passionate Associate Software Engineer with 2
+              I am a dedicated and passionate Software Engineer with 2
               years of experience in developing modern web applications. My
               journey in technology began during my college years, and since
               then, I have continuously honed my skills to stay at the forefront
               of the field.
             </p>
             <p className="text-gray-600 mb-6">
-              Specializing in frontend development with React, I also possess a
+              Specializing in frontend development with React and Angular, I also possess a
               solid full-stack background, with experience in backend
               technologies such as Java, Spring Boot, and working with various
               databases like Oracle, MySQL, and MongoDB. My goal is to create
