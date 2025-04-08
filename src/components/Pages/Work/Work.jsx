@@ -18,7 +18,7 @@ const Work = () => {
       id: 2,
       title: "Fitty App",
       category: "app",
-      image: "/assets/images/Fitty.png",
+      image: "/assets/images/Fitty.PNG",
       link: "https://github.com/VinalMunasinghe/FittyApp",
       description:
         "A fitness tracking app that helps users monitor daily movements, log workouts, set fitness goals, and track progress over time. With an intuitive interface and real-time insights, Fitty empowers users to stay motivated and lead a healthier lifestyle.",
@@ -27,7 +27,7 @@ const Work = () => {
       id: 3,
       title: "Eco Vision Web Application",
       category: "web",
-      image: "/assets/images/EcoVision.png",
+      image: "/assets/images/EcoVision.PNG",
       link: "https://github.com/VinalMunasinghe/Eco-vision-web",
       description:
         "A real-time web application developed for our research on IoT-based solutions to monitor and mitigate industrial air pollution. EcoVision visualizes live sensor data, tracks emission levels, and provides insights to support environmental sustainability.",

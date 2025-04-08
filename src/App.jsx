@@ -1,11 +1,11 @@
 import React, { useState } from "react";
-import Navbar from "./components/Navbar";
-import Home from "./components/Home/Home";
-import About from "./components/AboutUs/AboutUs";
-import Work from "./components/Work/Work";
-import Skills from "./Skills/Skills";
-import Contact from "./components/Contact/contact";
+import Navbar from "./components/Navbar/Navbar";
+import Home from "./components/Pages/Home/Home";
+import About from "./components/Pages/About-us/AboutUs";
+import Work from "./components/Pages/Work/Work";
+import Contact from "./components/Pages/Contact/contact";
 import Footer from "./components/Footer/footer";
+import Skills from "./components/Pages/Skills/Skills";
 
 function App() {
   const [activeSection, setActiveSection] = useState("home");
